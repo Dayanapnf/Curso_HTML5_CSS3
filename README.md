@@ -2,11 +2,11 @@
 <img src="https://user-images.githubusercontent.com/71513260/151648758-ff040416-e554-4311-aa01-aaf090964b6d.png" width="600" height="400"/>
 </div>
 
-# Curso HTML5-CSS3 🖥️
+# ▪️Curso HTML5-CSS3 🖥️
 
 Exercícios e desafios feitos durante o curso de HTML5 E CSS3 da plataforma Curso em Vídeo.
 
-## Arte 🎨
+## ▪️Arte 🎨
 
 > Arte criada para auxiliar na divulgação do curso de HTML5 e CSS3 da plataforma Curso em Vídeo do professor Gustavo Guanabara :heavy_check_mark:
 
